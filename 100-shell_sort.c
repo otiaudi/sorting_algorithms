@@ -43,3 +43,5 @@ void _ssort(int *a, int size, int n)
 		}
 	}
 	print_array(a, size);
+}
+
